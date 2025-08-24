@@ -1,8 +1,5 @@
 # Calculator-Basic-Project
 
-# Online Python compiler (interpreter) to run Python online.
-# Write Python 3 code in this online editor and run it.
-
 import math
 
 print('*****This is a basic calculator which helps to peroform operation like Add, Sub,Multiply, Divide,Square Root, Power****')
