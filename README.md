@@ -3,9 +3,9 @@
 # Online Python compiler (interpreter) to run Python online.
 # Write Python 3 code in this online editor and run it.
 
+import math
 
 print('*****This is a basic calculator which helps to peroform operation like Add, Sub,Multiply, Divide,Square Root, Power****')
-
 print("Specify the operation which you want to perform")
 
 print ("Type 1 for addtion")
@@ -16,7 +16,6 @@ print ("Type 5 for make square of the number")
 print ("Type 6 for sqaure root")
 
 
-import math
 while True:
 
     print('---- Lets start the process----')
